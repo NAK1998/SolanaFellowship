@@ -6,3 +6,6 @@ week3/bidirectionpayment/yarn.lock
 week4/metaplex/test-ledger
 week5/personal_crypto/tests
 week5/stake_token/tests
+yarn.lock
+Cargo.lock
+migrations
